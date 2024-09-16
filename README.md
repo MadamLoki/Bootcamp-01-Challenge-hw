@@ -13,9 +13,9 @@
 ## Acceptance Criteria
 
 > **GIVEN** a webpage meets accessibility standards
-> 
+>
 > **WHEN** I view the source code
-> 
+>
 > **THEN** I find semantic HTML elements
 >
 > **WHEN** I view the structure of the HTML elements
