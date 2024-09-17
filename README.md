@@ -13,7 +13,8 @@
 ## Acceptance Criteria
 
 > **GIVEN** a webpage meets accessibility standards
->
+>> -- buttons created for tab and searchability
+>> --
 > **WHEN** I view the source code
 >
 > **THEN** I find semantic HTML elements
