@@ -6,8 +6,7 @@
 
 ## Horiseon Website Accessibility Optimization
 
-## Description
-This project involves optimizing the Horiseon website to meet accessibility standards, enhancing its search engine optimization in the process.
+This project involves the optimization and refactoring of the Horiseon Marketing Agency website. The primary goal was to improve the site's accessibility standards, which in turn enhances its search engine optimization. This was achieved by implementing semantic HTML elements, ensuring a logical structure independent of styling and positioning, adding accessible alt attributes to images, and organizing heading attributes sequentially.
 
 ## User Story
 
