@@ -4,6 +4,10 @@
 
 ## Goals
 
+Github Repository can be found [here](https://github.com/MadamLoki/Bootcamp-01-Challenge-hw)
+
+For Github Pages viewing [here](https://madamloki.github.io/Bootcamp-01-Challenge-hw/)
+
 ## Horiseon Website Accessibility Optimization
 
 This project involves the optimization and refactoring of the Horiseon Marketing Agency website. The primary goal was to improve the site's accessibility standards, which in turn enhances its search engine optimization. This was achieved by implementing semantic HTML elements, ensuring a logical structure independent of styling and positioning, adding accessible alt attributes to images, and organizing heading attributes sequentially.
